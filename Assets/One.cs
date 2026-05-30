@@ -9,12 +9,13 @@ public class One : MonoBehaviour
         Debug.Log("데미지 : " + damage);
         // 안녕456456
         float speed = 10.0f;
-        Debug.Log("speed");
+        Debug.Log(speed);
     }
 
     void Update()
     {
         Debug.Log("Hello");
         Debug.Log("Bye");
+        Debug.Log("123456");
     }
 }
